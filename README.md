@@ -55,7 +55,9 @@ I like turning ideas into usable projects, learning by doing, and occasionally o
 
 ## 📫 Connect With Me
 - GitHub: **you’re already here**
-- Portfolio: *(add link when ready)*
+- Portfolio: *(Not ready)*
+- Instagram: [click here](https://www.instagram.com/muhsin_603/?utm_source=ig_web_button_share_sheet)
+- Linkdin: 
 
 ---
 
