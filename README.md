@@ -1,12 +1,62 @@
-- 👋 Hi, I’m @Muhsin-603
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Drac (Muhsin)
 
-<!---
-Muhsin-603/Muhsin-603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student and aspiring developer who enjoys building things at the intersection of **design, code, and creativity**.  
+I like turning ideas into usable projects, learning by doing, and occasionally overthinking solutions until they’re good.
+
+---
+
+## 🚀 About Me
+- 🎓 Student with a strong interest in technology and problem-solving  
+- 🎮 Game developer (Unity / Godot – beginner to intermediate)
+- 🎨 UI/UX & design enthusiast (Figma, clean layouts, visual storytelling)
+- 💻 Learning programming fundamentals seriously (Java, GDScript, C#)
+- 🧠 Curious about systems, logic, and how things work under the hood
+
+---
+
+## 🛠️ Tech Stack & Tools
+**Languages**
+- Java (learning)
+- GDScript
+- C#
+- Basics of C
+
+**Game Development**
+- Unity (2D)
+- Godot Engine
+
+**Design**
+- Figma
+- UI/UX principles
+- Component-based design systems
+
+**Other Tools**
+- Git & GitHub
+- Cursor
+- VS Code
+
+---
+
+## 📌 Current Focus
+- Improving logical thinking and problem-solving speed  
+- Building small but complete projects instead of half-finished ideas  
+- Strengthening fundamentals in programming and game mechanics  
+- Designing cleaner, more intentional interfaces
+
+---
+
+## 🌱 What I Believe In
+- Learning by building
+- Iteration over perfection
+- Understanding concepts instead of copy-pasting solutions
+- Good design is as important as good code
+
+---
+
+## 📫 Connect With Me
+- GitHub: **you’re already here**
+- Portfolio: *(add link when ready)*
+
+---
+
+⭐ If you find my projects interesting, feel free to explore or leave feedback.
