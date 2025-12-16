@@ -42,8 +42,8 @@ I break things to see how they work, then rebuild them better (usually).
 - 🏛️ **Public Service Portal**  
   Prototyping a citizen-facing web platform to simplify document handling and improve accessibility for public services.
 
-- 🏫 **Evolvia Design**  
-  Creating 3D block-style branding and futuristic maps for the college flagship event.
+- 🏫 **Level Design**  
+  Creating 3D environment and studying unity
 
 ---
 
