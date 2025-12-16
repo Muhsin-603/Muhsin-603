@@ -57,7 +57,7 @@ I like turning ideas into usable projects, learning by doing, and occasionally o
 - GitHub: **you’re already here**
 - Portfolio: *(Not ready)*
 - Instagram: [click here](https://www.instagram.com/muhsin_603/?utm_source=ig_web_button_share_sheet)
-- Linkdin: 
+- Linkdin: [click here](www.linkedin.com/in/muhsin-p-603p)
 
 ---
 
