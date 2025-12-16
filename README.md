@@ -1,64 +1,68 @@
-# 👋 Hi, I'm Drac (Muhsin)
+# 👋 Hi, I’m Drac (Muhsin)
 
-I'm a student and aspiring developer who enjoys building things at the intersection of **design, code, and creativity**.  
-I like turning ideas into usable projects, learning by doing, and occasionally overthinking solutions until they’re good.
+I’m a **student, designer, and developer** living at the intersection of **logic and aesthetics**.  
+I don’t just write code; I try to **craft experiences** — whether that’s scaring players in a horror game or simplifying bureaucracy with a service portal.
+
+I break things to see how they work, then rebuild them better (usually).
 
 ---
 
 ## 🚀 About Me
-- 🎓 Student with a strong interest in technology and problem-solving  
-- 🎮 Game developer (Unity / Godot – beginner to intermediate)
-- 🎨 UI/UX & design enthusiast (Figma, clean layouts, visual storytelling)
-- 💻 Learning programming fundamentals seriously (Java, GDScript, C#)
-- 🧠 Curious about systems, logic, and how things work under the hood
+
+- 🎓 **Engineering Student** tackling the fun stuff (Digital Electronics) and the dry stuff (Economics)
+- 🎮 **Game Developer** currently migrating from Java Swing to Unity
+- 🎨 **Visual Designer** obsessed with clean UI, isometric art, and visual storytelling  
+  *(Figma is my second home)*
+- 💻 **Tech Explorer** bridging the gap between *“It works”* and *“It feels good to use”*
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-**Languages**
-- Java (learning)
-- GDScript
-- C#
-- Basics of C
 
-**Game Development**
-- Unity (2D)
-- Godot Engine
+### 🔹 Domain
+**Game Development • UI/UX • Systems Thinking**
 
-**Design**
-- Figma
-- UI/UX principles
-- Component-based design systems
+### 🔹 Tools & Languages
 
-**Other Tools**
-- Git & GitHub
-- Cursor
-- VS Code
+| Area        | Tools & Technologies |
+|------------|----------------------|
+| **Core**   | Java, C#, C, GDScript |
+| **Game Dev** | Unity (Current Main), Godot, Pygame |
+| **Design** | Figma, Isometric Illustration, UI/UX Systems |
+| **Workflow** | Git/GitHub, Cursor, VS Code |
 
 ---
 
-## 📌 Current Focus
-- Improving logical thinking and problem-solving speed  
-- Building small but complete projects instead of half-finished ideas  
-- Strengthening fundamentals in programming and game mechanics  
-- Designing cleaner, more intentional interfaces
+## ⚡ Currently Cooking (Active Projects)
+
+- 👻 **Lullaby Down Below (Redux)**  
+  Porting my team’s Java Swing horror/survival game into Unity.  
+  Working on better player controllers, lighting, and *“accidentally”* making it scarier.
+
+- 🏛️ **Public Service Portal**  
+  Prototyping a citizen-facing web platform to simplify document handling and improve accessibility for public services.
+
+- 🏫 **Evolvia Design**  
+  Creating 3D block-style branding and futuristic maps for the college flagship event.
 
 ---
 
-## 🌱 What I Believe In
-- Learning by building
-- Iteration over perfection
-- Understanding concepts instead of copy-pasting solutions
-- Good design is as important as good code
+## 🌱 Philosophy
+
+- **Design First**  
+  A game isn’t fun if the UI fights you.
+
+- **Iteration**  
+  My first draft is always ugly.  
+  The third one is usually okay.
+
+- **Teamwork**  
+  Code is better when you have people like **Shibili** and **Saivivek** to break it for you.
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: **you’re already here**
-- Portfolio: *(Not ready)*
-- Instagram: [click here](https://www.instagram.com/muhsin_603/?utm_source=ig_web_button_share_sheet)
-- Linkdin: [click here](www.linkedin.com/in/muhsin-p-603p)
 
----
-
-⭐ If you find my projects interesting, feel free to explore or leave feedback.
+- **GitHub:** You’re looking at it.
+- **Instagram:** `muhsin_603`
+- **LinkedIn:** `Muhsin P`
