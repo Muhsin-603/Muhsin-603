@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Drac (Muhsin)
+# 👋 Hi, Muhsin
 
 I’m a **student, designer, and developer** living at the intersection of **logic and aesthetics**.  
 I don’t just write code; I try to **craft experiences** — whether that’s scaring players in a horror game or simplifying bureaucracy with a service portal.
