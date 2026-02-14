@@ -1,18 +1,18 @@
 # 👋 Hi, I am Muhsin
 
 I’m a **student, designer, and developer** living at the intersection of **logic and aesthetics**.  
-I don’t just write code; I try to **craft experiences** — whether that’s scaring players in a horror game or simplifying bureaucracy with a service portal.
+I Love games and I love to make them. There are many things about me that just strike the zoned out guy who lives in the narrow edge of the universe, but don't mind me !! I am just being myself.
 
-I break things to see how they work, then rebuild them better (usually).
+I like building things more than breaking them and I have a weird attachment to it and I have a little inertia to not refactor it.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Engineering Student** tackling the fun stuff (Digital Electronics) and the dry stuff (Economics)
-- 🎮 **Game Developer** currently migrating from Java Swing to Unity
+- 🎓 **Engineering Student** tackling the fun stuff (Game Dev) and the dry stuff (COA)
+- 🎮 **Game Developer** An aspiring one doing things here and there currently developing an idea 😌
 - 🎨 **Visual Designer** obsessed with clean UI, isometric art, and visual storytelling  
-  *(Figma is my second home)*
+  *(Figma 🥹)*
 - 💻 **Tech Explorer** bridging the gap between *“It works”* and *“It feels good to use”*
 
 ---
